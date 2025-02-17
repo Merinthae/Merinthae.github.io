@@ -870,7 +870,7 @@ remark42:
 # Based on Tencent CloudBase
 # See: https://twikoo.js.org
 twikoo:
-  envId: https://twikoo-lake.vercel.app
+  envId: https://twikoo.merinthae.com/
   region: ap-shanghai
   path: window.location.pathname
 
