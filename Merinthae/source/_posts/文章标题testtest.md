@@ -11,4 +11,9 @@ asdfgdfagadfharfdg
   dfsh    serfrhsfdhsdghsdfh
   n   
 
-  **rgaserghsthse**
+**rgaserghsthse**
+
+``` powershell
+ hexo new "My New Post"
+```
+
