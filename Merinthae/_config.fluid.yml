@@ -981,7 +981,7 @@ about:
   # More icons can be found from https://hexo.fluid-dev.com/docs/en/icon/  `class` is the css class of the icon. If adding `qrcode`, the icon is no longer a link, but a hovering QR code
   icons:
     - { class: "iconfont icon-mail", link: "info@merinthae.com", tip: "Mail" }
-    - { class: "iconfont icon-steam", link: "https://steamcommunity.com/profiles/76561199631324458/", tip: "Steam" }
+    - { class: "iconfont icon-steam", link: "https://steamcommunity.com/profiles/76561199188888579", tip: "Steam" }
     - { class: "iconfont icon-whatsapp-fill", qrcode: "/img/whatsapp.jpg" }
 
 
